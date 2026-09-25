@@ -72,6 +72,22 @@ Design files are in `rig/`.
 
 ## Citation
 
+Journal version (under review):
+
+```bibtex
+@article{mehrdad2026leafsense,
+  title   = {LeafSense: Leveraging Wi-Fi Signals for Monitoring Seasonal Changes},
+  author  = {Mehrdad, Saeid and Mohammed, Alamin and Striegel, Aaron},
+  journal = {},
+  year    = {},
+  volume  = {},
+  pages   = {},
+  doi     = {}
+}
+```
+
+Conference version:
+
 ```bibtex
 @inproceedings{mehrdad2026leveraging,
   title     = {Leveraging Wi-Fi Signals for Monitoring Seasonal Changes},
