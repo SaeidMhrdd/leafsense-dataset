@@ -8,10 +8,6 @@ received signal strength (RSSI) of beacon frames broadcast by existing residenti
 access points, captured from a moving vehicle. No new transmitters and no cooperation from
 the access points are required.
 
-> **Status:** repository created ahead of the data release. The anonymized dataset will be
-> uploaded here; this README describes what will be provided. Open an issue if you need
-> early access for review purposes.
-
 ## Contents
 
 | Path | What it holds |
