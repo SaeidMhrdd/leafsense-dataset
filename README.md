@@ -1,7 +1,7 @@
 # LeafSense Dataset and Sensing Rig
 
-Data and hardware design from **LeafSense: Leveraging Wi-Fi Signals for Monitoring Seasonal Changes**
-(Saeid Mehrdad, Alamin Mohammed, Aaron Striegel — University of Notre Dame).
+Data and hardware design from **LeafSense** (Saeid Mehrdad, Alamin Mohammed, Aaron Striegel —
+University of Notre Dame).
 
 LeafSense infers the presence or absence of leaves on street trees from variations in the
 received signal strength (RSSI) of beacon frames broadcast by existing residential Wi-Fi
@@ -72,20 +72,6 @@ Design files are in `rig/`.
 
 ## Citation
 
-Journal version (submitted to *Sensors*, MDPI):
-
-```bibtex
-@article{mehrdad2026leafsense,
-  title   = {LeafSense: Leveraging Wi-Fi Signals for Monitoring Seasonal Changes},
-  author  = {Mehrdad, Saeid and Mohammed, Alamin and Striegel, Aaron},
-  journal = {Sensors},
-  year    = {2026},
-  note    = {Submitted}
-}
-```
-
-Conference version:
-
 ```bibtex
 @inproceedings{mehrdad2026leveraging,
   title     = {Leveraging Wi-Fi Signals for Monitoring Seasonal Changes},
@@ -94,11 +80,6 @@ Conference version:
   year      = {2026}
 }
 ```
-
-## License
-
-Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (`LICENSE-DATA`).
-Code and design files: MIT (`LICENSE`).
 
 ## Contact
 
