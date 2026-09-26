@@ -89,7 +89,10 @@ Conference version:
   title     = {Leveraging Wi-Fi Signals for Monitoring Seasonal Changes},
   author    = {Mehrdad, Saeid and Mohammed, Alamin and Striegel, Aaron},
   booktitle = {2026 35th International Conference on Computer Communications and Networks (ICCCN)},
-  year      = {2026}
+  address   = {Honolulu, HI, USA},
+  year      = {2026},
+  pages     = {1--6},
+  doi       = {10.1109/ICCCN69946.2026.11662657}
 }
 ```
 
