@@ -18,10 +18,9 @@ The files and columns are described in [`data/README.md`](data/README.md).
 
 ## Privacy
 
-* MAC addresses (`wlan.bssid`, `wlan.sa`, `wlan.da`) are replaced by a keyed hash (HMAC-SHA256). The key is not
-  released.
+* MAC addresses (`wlan.bssid`, `wlan.sa`, `wlan.da`) are replaced by a keyed hash (HMAC-SHA256).
 * Only frames transmitted by access points are included. Client device addresses are removed.
-* No SSIDs, frame contents or GPS coordinates are included. The raw packet captures are not released.
+* No SSIDs, frame contents or GPS coordinates are included.
 
 ## Reproducing the results
 
