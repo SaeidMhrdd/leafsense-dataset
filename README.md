@@ -29,10 +29,10 @@ Python 3.9, pandas 2.3, NumPy 2.0, scikit-learn 1.6.
 ```bash
 pip install -r code/requirements.txt
 cd code
-python classification_results.py   # Tables 2, 3 and 7
-python channel_analysis.py         # Tables 4, 5 and 6, Figures 9 and 10
-python path_and_density.py         # Figures 11 and 12
-python process_run.py ../data/raw/placeC_11-14 "No Leaves" placeC_nov14.csv   # filtering pipeline on a raw run
+python classification_results.py
+python channel_analysis.py
+python path_and_density.py
+python process_run.py ../data/raw/placeC_11-14 "No Leaves" placeC_nov14.csv
 ```
 
 Some results in the paper were computed with an earlier version of the window-filtering step and intermediate

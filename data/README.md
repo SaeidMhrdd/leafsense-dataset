@@ -27,21 +27,6 @@ Processed files contain, in addition:
 
 One folder per run and one file per node, named `ch<channel>_<date>_<start time>.csv.gz`.
 
-| Folder | Place | Date | Role in the paper | Channels |
-|---|---|---|---|---|
-| `placeA_05-15` | A | 15 May | "Leaves" | 1, 6, 11, 36, 40, 44, 48, 153, 157 |
-| `placeA_02-20` | A | 20 Feb | "No Leaves"; also the city-wide drive of Figure 12 | all 11 |
-| `placeB_09-02` | B | 2 Sep | "Leaves" (two passes) | all 11 |
-| `placeB_02-01` | B | 1 Feb | "No Leaves"; week 1 of the constant-leaf control | all 11 |
-| `placeB_02-03` | B | 3 Feb | week 2 of the constant-leaf control | all 11 |
-| `placeC_10-01` | C | 1 Oct | "Leaves"; week 1 of the constant-leaf control | all 11 |
-| `placeC_10-08` | C | 8 Oct | week 2 of the constant-leaf control | all except 149 |
-| `placeC_10-22` | C | 22 Oct | weekly run | all except 149 |
-| `placeC_10-30` | C | 30 Oct | weekly run | all 11 |
-| `placeC_11-08` | C | 8 Nov | weekly run | all 11 |
-| `placeC_11-14` | C | 14 Nov | "No Leaves" | all 11 |
-| `placeC_04-04` | C | 4 Apr | five runs for the path-robustness analysis (Figure 11) | 11, 36, 40, 44, 48, 153, 157, 161 |
-
 ## `processed/`
 
 | File | Used for |
